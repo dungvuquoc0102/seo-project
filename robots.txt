@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dungvuquoc0102.github.io/seo-project/sitemap.xml
